@@ -7,7 +7,7 @@ import math
 
 # Datos del problema
 productos = [
-    {"nombre": "Notebook", "peso": 2.1},
+    {"nombre": "Notebook", "peso": 10.1},
     {"nombre": "Tablet", "peso": 0.6},
     {"nombre": "Parlante Bluetooth", "peso": 3.6},
     {"nombre": "Smart TV", "peso": 5},
